@@ -1,0 +1,33 @@
+{
+    "logData": [
+        {
+            "access": "public",
+            "publishStatus": "published",
+            "timestamp": "2021-10-03T19:37:41+0000",
+            "authors": ["311460887578804805"],
+            "title": "ISS Refueling Mission",
+            "flairs": "International Space Station, Refueling, Cargo",
+            "thumbnails": "https://cdn.mos.cms.futurecdn.net/fKZ2vtNGzTxa93C7KfaeRh.jpg",
+            "entries": [
+                {
+                    "timestamp": "2021-10-03T14:37:41+0000",
+                    "text": "The Antares Rocket blasted off from Cape Canaveral with a payload of 7890kg worth of supplies. The launch sequence and flight into orbit was routine with no unexpected events. The velocity of the rocket peaked and 4.9 m/s during entry.",
+                    "image": "https://mk0spaceflightnoa02a.kinstacdn.com/wp-content/uploads/2019/04/47580652972_1972fbdf07_k.jpg"
+                },
+                {
+                    "timestamp": "2021-10-03T14:52:41+0000",
+                    "text": "The rocket has crossed the Kármán Line at 100km above sea level, and has officially entered space. The trajectory in en route to perfectly dock onto the International Space Station"
+                },
+                {
+                    "timestamp": "2021-10-03T15:06:41+0000",
+                    "text": "The Cygnus spacecraft successfully docked to the International Space Station. The Crew is currently unloading the cargo and supplies.",
+                    "image": "https://s3.amazonaws.com/cms.ipressroom.com/295/files/20186/5b4b4f702cfac260cb3a105b_Northrop+Grummans+Cygnus+Spacecraft+Begins+Secondary+Mission+in+Space/Northrop+Grummans+Cygnus+Spacecraft+Begins+Secondary+Mission+in+Space_a1ad41f3-5002-4fd5-a91a-2b6903f47f07-prv.jpg"
+                },
+                {
+                    "timestamp": "2021-10-03T16:03:24+0000",
+                    "text": "The crew completed unloading all of the cargo and supplied. There were no damaged to any cargo during the journey, and all cargo is accounted for. The spacecraft is being released from the ISS."
+                }
+            ]
+        }
+    ]
+}
